@@ -8,7 +8,7 @@ I started my career as a developer in 2013 building custom WordPress themes. Tod
 
 ### Skills
 
-#### :key: Key
+#### Key :key:
 
 I use cookies to rate my expertise in skills. One cookie is pretty good, two cookies is even better, and three cookies are like turning it up to eleven.
 
@@ -18,7 +18,7 @@ I use cookies to rate my expertise in skills. One cookie is pretty good, two coo
 | Even Better  | :cookie: :cookie:          |
 | Up to Eleven | :cookie: :cookie: :cookie: |
 
-#### :earth_americas: Bonjour, Ciao, Kon'nichiwa, Merhaba
+#### Bonjour, Ciao, Kon'nichiwa, Merhaba :earth_americas:
 
 The best way to learn a new skill, tool or language is to be immersed in it.
 
@@ -37,7 +37,7 @@ The best way to learn a new skill, tool or language is to be immersed in it.
 
 ### Fun fact:
 
-I hate :watermelon: , but I love anything that looks like a :watermelon:
+I hate :watermelon: , but I love anything that looks like a :watermelon: .
 
 Cheers!  
 Angela :two_hearts:
