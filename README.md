@@ -2,7 +2,7 @@
 
 ## I :hearts: CSS and JavaScript.
 
-I started my career as a developer in 2013 building custom WordPress themes. Today I'm a frontend developer at the University of St. Thomas - Minnesota.
+I started my career as a developer in 2013 building custom WordPress themes. Today I'm a frontend developer at the [University of St. Thomas - Minnesota][7].
 
 ---
 
@@ -48,3 +48,4 @@ Angela :two_hearts:
 [4]: https://github.com/angelajholden/personal-site
 [5]: https://github.com/angelajholden/web-scraper
 [6]: https://github.com/angelajholden/express-test
+[7]: https://www.stthomas.edu/
