@@ -4,45 +4,34 @@
 
 I started my career as a developer in 2013 building custom WordPress themes. Today I'm a frontend developer at the University of St. Thomas - Minnesota.
 
+---
+
 ### Skills
 
-#### Key :key:
+#### :key: Key
 
 I use cookies to rate my expertise in skills. One cookie is pretty good, two cookies is even better, and three cookies are like turning it up to eleven.
 
-| Expertise    | Cookies                    |
+| Expertise in | Cookies                    |
 | :----------- | :------------------------- |
 | Pretty Good  | :cookie:                   |
 | Even Better  | :cookie: :cookie:          |
 | Up to Eleven | :cookie: :cookie: :cookie: |
 
-#### Bonjour, Ciao, Kon'nichiwa, Merhaba :earth_americas:
+#### :earth_americas: Bonjour, Ciao, Kon'nichiwa, Merhaba
 
-The best way to learn a new language is to be immersed in it.
+The best way to learn a new skill, tool or language is to be immersed in it.
 
-| Language   | Expertise                  |
-| :--------- | :------------------------- |
-| HTML5      | :cookie: :cookie: :cookie: |
-| SCSS       | :cookie: :cookie: :cookie: |
-| CSS        | :cookie: :cookie: :cookie: |
-| PHP        | :cookie: :cookie:          |
-| MySQL      | :cookie: :cookie:          |
-| JavaScript | :cookie: :cookie:          |
-| jQuery     | :cookie: :cookie:          |
-| Vue JS     | :cookie: :cookie:          |
-| Velocity   | :cookie: :cookie:          |
-| Python     | :cookie:                   |
-| Node       | :cookie:                   |
-
-### Tools
-
--   Grunt
--   Laravel
--   Valet
--   Twig
--   EJS
--   Yarn
--   NPM
+| Skill         | Level                      | Example              |
+| :------------ | :------------------------- | :------------------- |
+| HTML          | :cookie: :cookie: :cookie: |                      |
+| SCSS/CSS      | :cookie: :cookie: :cookie: |                      |
+| Accessibility | :cookie: :cookie: :cookie: | [a11y mistakes][1]   |
+| JavaScript    | :cookie: :cookie:          | [personal site][4]   |
+| Vue JS        | :cookie: :cookie:          |                      |
+| Grunt JS      | :cookie: :cookie:          | [grunt][3]           |
+| Node/Express  | :cookie:                   | [express project][6] |
+| Python        | :cookie:                   | [web scraper][5]     |
 
 ---
 
@@ -50,4 +39,12 @@ The best way to learn a new language is to be immersed in it.
 
 I hate :watermelon: , but I love anything that looks like a :watermelon:
 
----
+Cheers!  
+Angela :two_hearts:
+
+[1]: https://github.com/angelajholden/a11ymistakes
+[2]: https://github.com/angelajholden/template
+[3]: https://github.com/angelajholden/grunt
+[4]: https://github.com/angelajholden/personal-site
+[5]: https://github.com/angelajholden/web-scraper
+[6]: https://github.com/angelajholden/express-test
