@@ -6,7 +6,12 @@ I started my career as a developer in 2013 building custom WordPress themes. Tod
 
 ---
 
+<style>.container{ display:flex; flex-flow:row wrap; align-items:flex-start; justify-content:space-between;} .one-half{ width:49%;} @media (max-width:768px){ .one-half{ width:100%;}}</style>
+
 ### Skills
+
+<div class="container">
+<div class="one-half">
 
 #### Key :key:
 
@@ -17,6 +22,9 @@ I use cookies to rate my expertise in skills. One cookie is pretty good, two coo
 | Pretty Good  | :cookie:                   |
 | Even Better  | :cookie: :cookie:          |
 | Up to Eleven | :cookie: :cookie: :cookie: |
+
+</div>
+<div class="one-half">
 
 #### Bonjour, Ciao, Kon'nichiwa, Merhaba :earth_americas:
 
@@ -32,6 +40,9 @@ The best way to learn a new skill, tool or language is to be immersed in it.
 | Grunt JS      | :cookie: :cookie:          | [grunt][3]           |
 | Node/Express  | :cookie:                   | [express project][6] |
 | Python        | :cookie:                   | [web scraper][5]     |
+
+</div>
+</div>
 
 ---
 
