@@ -2,7 +2,8 @@
 
 ## I :hearts: CSS and JavaScript.
 
-I started my career as a developer in 2013 building custom WordPress themes. Today I'm a frontend developer at the [University of St. Thomas - Minnesota][7].
+I started my career as a developer in 2013 building custom WordPress themes.  
+Today I'm a frontend developer at the [University of St. Thomas - Minnesota][7].
 
 ---
 
@@ -10,7 +11,7 @@ I started my career as a developer in 2013 building custom WordPress themes. Tod
 
 #### Key :key:
 
-I use cookies to rate my expertise in skills. One cookie is pretty good, two cookies is even better, and three cookies are like turning it up to eleven.
+I use cookies to rate my expertise in skills.
 
 | Expertise in | Cookies                    |
 | :----------- | :------------------------- |
@@ -20,7 +21,7 @@ I use cookies to rate my expertise in skills. One cookie is pretty good, two coo
 
 #### Bonjour, Ciao, Kon'nichiwa, Merhaba :earth_americas:
 
-The best way to learn a new skill, tool or language is to be immersed in it.
+The best way to learn a new skill, tool or language is to just do it.
 
 | Skill         | Level                      | Example              |
 | :------------ | :------------------------- | :------------------- |
