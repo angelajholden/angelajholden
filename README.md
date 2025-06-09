@@ -1,52 +1,90 @@
-# Hello, world. :sparkles:
+# Hi, I'm Angela! 👋
 
-## I :hearts: CSS and JavaScript.
+Software Engineer • Frontend Developer • Educator • Streamer • Creator
 
-I started my career as a developer in 2013 building custom WordPress themes.  
-Today I'm a frontend developer at the [University of St. Thomas - Minnesota][7].
+After more than a decade as a frontend developer, I’ve worked on thousands of projects—ranging from small business websites to large-scale university systems. I have a degree in Software Engineering and a strong foundation in object-oriented programming — earned the hard way, and I’m proud of it.
 
----
-
-### Skills
-
-#### Key :key:
-
-I use cookies to rate my expertise in skills.
-
-| Expertise in | Cookies                    |
-| :----------- | :------------------------- |
-| Pretty Good  | :cookie:                   |
-| Even Better  | :cookie: :cookie:          |
-| Up to Eleven | :cookie: :cookie: :cookie: |
-
-#### Bonjour, Ciao, Kon'nichiwa, Merhaba :earth_americas:
-
-The best way to learn a new skill, tool or language is to just do it.
-
-| Skill         | Level                      | Example              |
-| :------------ | :------------------------- | :------------------- |
-| HTML          | :cookie: :cookie: :cookie: |                      |
-| SCSS/CSS      | :cookie: :cookie: :cookie: |                      |
-| Accessibility | :cookie: :cookie: :cookie: | [a11y mistakes][1]   |
-| JavaScript    | :cookie: :cookie:          | [personal site][4]   |
-| Vue JS        | :cookie: :cookie:          |                      |
-| Grunt JS      | :cookie: :cookie:          | [grunt][3]           |
-| Node/Express  | :cookie:                   | [express project][6] |
-| Python        | :cookie:                   | [web scraper][5]     |
+These days, I focus on teaching and mentoring through live streams, tutorials, and open source projects. My channel is all about learning by doing — building from scratch with HTML, CSS, and JavaScript to help devs truly understand the web.
 
 ---
 
-### Fun fact:
+## 🍋 What I'm Working On
 
-I hate :watermelon: , but I love anything that looks like a :watermelon: .
+-   **Live coding streams** every Saturday and Sunday on YouTube
+-   **UI tutorials** and videos focused on CSS, accessibility, and responsive layouts
+-   **A new video series**: _Inspect With Respect_ — collaborative audits of public websites
+-   **My personal blog** — built with HTML, SCSS, and a lot of care (Angular + Strapi coming soon)
 
-Cheers!  
-Angela :two_hearts:
+---
 
-[1]: https://github.com/angelajholden/a11ymistakes
-[2]: https://github.com/angelajholden/template
-[3]: https://github.com/angelajholden/grunt
-[4]: https://github.com/angelajholden/personal-site
-[5]: https://github.com/angelajholden/web-scraper
-[6]: https://github.com/angelajholden/express-test
-[7]: https://www.stthomas.edu/
+## ✨ Core Skills
+
+-   Semantic HTML, modern CSS, and responsive layout systems
+-   Accessibility and SEO best practices
+-   Vanilla JavaScript and frontend workflows
+-   Git, GitHub, and practical open source collaboration
+-   Building without frameworks for clarity — but trained to use them when needed
+-   Advanced Velocity templating in CMS environments like Cascade Server
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+I’ve worked across a broad range of tools and platforms, from university CMSs to modern frontend frameworks. Here’s what I use regularly:
+
+### Languages & Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Velocity](https://img.shields.io/badge/Velocity-000000?style=for-the-badge&logo=apachetomcat&logoColor=white)
+
+### Frameworks & Libraries
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Backend & Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+
+### DevOps & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=apache&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+### Extras
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+
+---
+
+## 🎥 YouTube
+
+I run a frontend-focused channel where I live code, answer dev questions, and share the creative process behind building for the web.
+
+> [_Subscribe to the channel_](https://www.youtube.com/@angelajholden)  
+> _“Design, Develop, Deploy” — one stream at a time._
+
+---
+
+## 💛 Support My Work
+
+Love the streams? Help fund the next one with a little lemon drop:  
+[🍋 Sponsor me on GitHub](https://github.com/sponsors/angelajholden)
+
+---
+
+If you're curious about my projects, just scroll down — everything here was built live or for teaching purposes. Want to collaborate or say hi? [Get in touch here](mailto:info@angelajholden.com).
