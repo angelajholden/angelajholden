@@ -1,5 +1,7 @@
 # Hi, I'm Angela! 👋
 
+![Angela J Holden Banner](ajh-readme-low-poly.png)
+
 ## 🌱 Software Engineer • Frontend Developer • Educator • Streamer • Creator
 
 After more than a decade as a frontend developer, I’ve worked on thousands of projects—ranging from small business websites to large-scale university systems. I have a degree in Software Engineering and a strong foundation in object-oriented programming.
