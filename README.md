@@ -57,6 +57,8 @@ I’ve worked across a broad range of tools and platforms, from university CMSs 
 
 :penguin: Comfortable managing cloud servers and deploying LAMP stacks on Linux-based environments.
 
+:toolbox: Comfortable working with package managers like npm, nvm, and composer. I’ve used tools like Webpack across long-term projects, even when I haven’t configured them from scratch.
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -65,6 +67,10 @@ I’ve worked across a broad range of tools and platforms, from university CMSs 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![nvm](https://img.shields.io/badge/nvm-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
 
 ### Extras
 
