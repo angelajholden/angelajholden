@@ -2,7 +2,7 @@
 
 ## 🌱 Software Engineer • Frontend Developer • Educator • Streamer • Creator
 
-After more than a decade as a frontend developer, I’ve worked on thousands of projects—ranging from small business websites to large-scale university systems. I have a degree in Software Engineering and a strong foundation in object-oriented programming — earned the hard way, and I’m proud of it.
+After more than a decade as a frontend developer, I’ve worked on thousands of projects—ranging from small business websites to large-scale university systems. I have a degree in Software Engineering and a strong foundation in object-oriented programming.
 
 These days, I focus on teaching and mentoring through live streams, tutorials, and open source projects. My [YouTube channel](https://www.youtube.com/@angelajholden) is all about learning by doing — building from scratch with HTML, CSS, and JavaScript to help devs truly understand the web.
 
@@ -10,10 +10,9 @@ These days, I focus on teaching and mentoring through live streams, tutorials, a
 
 ## 🍋 What I'm Working On
 
--   **Live coding streams** every Saturday and Sunday on YouTube
--   **UI tutorials** and videos focused on CSS, accessibility, and responsive layouts
--   **A new video series**: _Inspect With Respect_ — collaborative audits of public websites
--   **My personal blog** — built with HTML, SCSS, and a lot of care (Angular + Strapi coming soon)
+-   **Live coding streams** every Saturday and Sunday at 10:30am CST (3:30pm UTC) on YouTube
+-   **UI tutorials** and videos focused on CSS, accessibility and responsive layouts
+-   **My personal blog** — built with HTML, SCSS, vanilla JavaScript, PHP, and a lot of ♥️
 
 ---
 
@@ -95,11 +94,12 @@ I run a frontend-focused channel where I live code, answer dev questions, and sh
 
 ---
 
-## 💛 Support My Work
+## 🧡 Support My Work
 
 Love the streams? Help fund the next one with a little lemon drop:  
 [🍋 Sponsor me on GitHub](https://github.com/sponsors/angelajholden)
 
 ---
 
-If you're curious about my projects, just scroll down — everything here was built live or for teaching purposes. Want to collaborate or say hi? [Get in touch here](mailto:info@angelajholden.com).
+If you're curious about my projects, just scroll down — everything here was built live or for teaching purposes.
+Want to collaborate or say hi? [Get in touch here](mailto:info@angelajholden.com).
