@@ -1,6 +1,6 @@
-# Hi, I'm Angela! 👋
-
 ![Angela J Holden Banner](ajh-readme-low-poly.png)
+
+# Hi, I'm Angela! 👋
 
 ## 🌱 Software Engineer • Frontend Developer • Educator • Streamer • Creator
 
