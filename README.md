@@ -4,7 +4,7 @@ Software Engineer • Frontend Developer • Educator • Streamer • Creator
 
 After more than a decade as a frontend developer, I’ve worked on thousands of projects—ranging from small business websites to large-scale university systems. I have a degree in Software Engineering and a strong foundation in object-oriented programming — earned the hard way, and I’m proud of it.
 
-These days, I focus on teaching and mentoring through live streams, tutorials, and open source projects. My channel is all about learning by doing — building from scratch with HTML, CSS, and JavaScript to help devs truly understand the web.
+These days, I focus on teaching and mentoring through live streams, tutorials, and open source projects. My [YouTube channel](https://www.youtube.com/@angelajholden) is all about learning by doing — building from scratch with HTML, CSS, and JavaScript to help devs truly understand the web.
 
 ---
 
@@ -63,7 +63,6 @@ I’ve worked across a broad range of tools and platforms, from university CMSs 
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=apache&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
