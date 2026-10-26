@@ -106,3 +106,10 @@ Love the streams? Help fund the next one with a little lemon drop:
 
 If you're curious about my projects, just scroll down — everything here was built live or for teaching purposes.
 Want to collaborate or say hi? [Get in touch here](mailto:info@angelajholden.com).
+
+## Design & Assets
+
+The profile copy, banner artwork, badges, and supporting assets are my original work unless otherwise noted.
+
+- Profile assets are intended to represent my personal brand and teaching work.
+- Third-party badges, logos, and service marks remain the property of their respective owners.
