@@ -2,107 +2,99 @@
 
 # Hi, I'm Angela! 👋
 
-## 🌱 Software Engineer • Frontend Developer • Educator • Streamer • Creator
+**Software Engineer • Frontend Specialist • Full-Stack Development • Educator**
 
-After more than a decade as a frontend developer, I’ve worked on thousands of projects—ranging from small business websites to large-scale university systems. I have a degree in Software Engineering and a strong foundation in object-oriented programming.
+I'm a software engineer with **13+ years of frontend development experience**, building websites, applications, and content management solutions for organizations ranging from small businesses to higher education. My specialties include semantic HTML, CSS, JavaScript, accessibility, responsive interfaces, and complex CMS implementations.
 
-These days, I focus on teaching and mentoring through live streams, tutorials, and open source projects. My [YouTube channel](https://www.youtube.com/@angelajholden) is all about learning by doing — building from scratch with HTML, CSS, and JavaScript to help devs truly understand the web.
+My work also includes WordPress development, REST APIs, server configuration, and production deployments. I'm expanding further into **full-stack development with a frontend focus**, working with Node.js, Express, databases, and application architecture.
 
----
+I enjoy documenting what I learn, mentoring other developers, and sharing hands-on projects through [YouTube](https://www.youtube.com/@angelajholden).
 
-## 🍋 What I'm Working On
+## 🧩 CMS & Higher Education Development
 
--   **Live coding streams** every Saturday and Sunday at 10:30am CST (3:30pm UTC) on YouTube
--   **UI tutorials** and videos focused on CSS, accessibility and responsive layouts
--   **My personal blog** — built with HTML, SCSS, vanilla JavaScript, PHP, and a lot of ♥️
+I have extensive experience developing and maintaining higher-education websites using **Cascade CMS** and **Apache Velocity templating**. My work includes templates, structured content, reusable components, accessibility, and the day-to-day realities of supporting large CMS-driven sites.
 
----
+I also work with WordPress and maintain practical guides for local development, migrations, auditing, and deployment.
 
-## ✨ Core Skills
-
--   Semantic HTML, modern CSS, and responsive layout systems
--   Accessibility and SEO best practices
--   Vanilla JavaScript and frontend workflows
--   Git, GitHub, and practical open source collaboration
--   Building without frameworks for clarity — but trained to use them when needed
--   Advanced Velocity templating in CMS environments like Cascade Server
-
----
+![Cascade CMS](https://img.shields.io/badge/Cascade_CMS-185F8C?style=for-the-badge)
+![Apache Velocity](https://img.shields.io/badge/Apache_Velocity-2D3748?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🛠️ Tech Stack & Tools
 
-I’ve worked across a broad range of tools and platforms, from university CMSs to modern frontend frameworks. Here’s what I use regularly:
-
-### Languages & Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Velocity](https://img.shields.io/badge/Velocity-000000?style=for-the-badge&logo=apachetomcat&logoColor=white)
-
-### Frameworks & Libraries
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### Backend & Databases
 
-⚙️ Experienced with both REST APIs and database design across SQL and NoSQL systems.
-
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4A4A4A?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Workflow
-
-:penguin: Comfortable managing cloud servers and deploying LAMP stacks on Linux-based environments.
-
-:toolbox: Comfortable working with package managers like npm, nvm, and composer. I’ve used tools like Webpack across long-term projects, even when I haven’t configured them from scratch.
+### Deployment & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![nvm](https://img.shields.io/badge/nvm-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Extras
+**Currently building on:** TypeScript, React, PostgreSQL, Prisma, and Docker. My primary strength remains frontend engineering, with growing backend and full-stack experience.
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+## 🚀 Featured Projects & Technical Documentation
 
----
+These repositories bring together production workflows, coding projects, QA practices, and reference documentation.
 
-## 🎥 YouTube
+### 🛠️ [DevOps for Frontend Developers](https://github.com/angelajholden/devops)
+Practical guides for deploying, configuring, and maintaining LAMP and Node.js applications on DigitalOcean. Covers Apache, Nginx, PM2, DNS, SSL, SSH, GitHub Actions, and server audits.
 
-I run a frontend-focused channel where I live code, answer dev questions, and share the creative process behind building for the web.
+### 🔍 [Frontend Audit](https://github.com/angelajholden/frontend-audit)
+A reusable AI-assisted, read-only audit workflow for HTML, CSS, and JavaScript projects. Includes accessibility, technical SEO, responsive layouts, code review, and actionable QA reporting.
 
-> [_Subscribe to the channel_](https://www.youtube.com/@angelajholden)  
-> _“Design, Develop, Deploy” — one stream at a time._
+### 🌐 [WordPress Development](https://github.com/angelajholden/wordpress)
+Technical documentation for WordPress development, migrations, maintenance, and troubleshooting using MAMP, WP-CLI, MySQL, and DigitalOcean.
 
----
+### 🎬 [Responsive Video Gallery](https://github.com/angelajholden/responsive-video-gallery)
+A responsive video gallery built with semantic HTML, CSS Grid, vanilla JavaScript, and the native HTML dialog element for YouTube and Vimeo embeds.
 
-## 🧡 Support My Work
+### 💻 [30 Days of Vanilla JavaScript](https://github.com/angelajholden/30daysofvanillajavascript)
+Hands-on JavaScript challenges covering DOM manipulation, modals, pagination, filtering, drag and drop, validation, and interactive UI patterns.
 
-Love the streams? Help fund the next one with a little lemon drop:  
-[🍋 Sponsor me on GitHub](https://github.com/sponsors/angelajholden)
+[Live demo](https://30daysofvanillajavascript.com/) · [YouTube playlist](https://www.youtube.com/playlist?list=PLiEcEGGtRVulE0CX091xD1ZcyV2T_HfKn)
 
----
+## 🌱 What I'm Working On
 
-If you're curious about my projects, just scroll down — everything here was built live or for teaching purposes.
-Want to collaborate or say hi? [Get in touch here](mailto:info@angelajholden.com).
+- Expanding my full-stack skills with Node.js, Express, PostgreSQL, and database-backed applications.
+- Building and maintaining websites, CMS solutions, and deployment documentation.
+- Developing practical technical references as I learn, build, and teach, including [Backend Course Documentation](https://github.com/angelajholden/backend-course-documentation).
+- Sharing frontend development, JavaScript practice, problem solving, and live coding on YouTube.
+
+## 🎥 Teaching & YouTube
+
+I enjoy teaching through working examples: write the code, test it, understand why it works, and document the process so it's easy to revisit. My [YouTube channel](https://www.youtube.com/@angelajholden) features live coding, frontend development, JavaScript fundamentals, and hands-on learning.
+
+**[Watch on YouTube](https://www.youtube.com/@angelajholden)**
+
+## 🍋 Connect & Support
+
+- [Website](https://angelajholden.com)
+- [YouTube](https://www.youtube.com/@angelajholden)
+- [GitHub Sponsors](https://github.com/sponsors/angelajholden)
+- [Email](mailto:info@angelajholden.com)
+
+Thanks for stopping by! 👋
